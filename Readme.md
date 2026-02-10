@@ -17,7 +17,8 @@ npm install
 Run the application using Node.js:
 
 ```bash
-node src/app.js
+npm run dev:translate
+npm run dev:fixer
 ```
 
 Run the foundry local list:
